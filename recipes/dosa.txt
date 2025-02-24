@@ -1,0 +1,6 @@
+batter
+gas
+stove
+pan
+fire
+oil
